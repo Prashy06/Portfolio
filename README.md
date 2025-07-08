@@ -25,37 +25,38 @@ I’m here to connect with thinkers, tinkerers, storytellers, engineers, and exp
 - **SRM Easwari Engineering College**
 > Bachelor of Engineering - BE , Electronics & Communication Engineering (ECE)
 2024 - 2028
+> 
 Key Courses: Digital Electronics, Embedded Systems, VLSI Design, Signals & Systems, Data Structures, Artificial Intelligence (Intro), IoT
 
 
 - **Ryan International School**
- >Class 12th, Council for the Indian School Certificate Examinations (ICSE)
-Grade: 82.5%**
+ > Class 12th, Council for the Indian School Certificate Examinations (ICSE)
+>
+Grade: 82.5%
 ---
 
 ## 🏆 Certifications
 
 - **CS50 : Introduction to Artificial Intelligence with Python
-CS50 : Introduction to Artificial Intelligence with Python
-Harvard UniversityHarvard University
-Issued Jun 2025Issued Jun 2025
-Skills: Artificial Intelligence (AI) · Convolutional Neural Networks (CNN)**
+Harvard University
+Issued Jun 2025
+> Skills: Artificial Intelligence (AI) · Convolutional Neural Networks (CNN)
 
 - **CS50x
 Harvard UniversityHarvard University
-Issued Jun 2025Issued Jun 2025
-Skills: C (Programming Language) · Python (Programming Language) · SQL**
+Issued Jun 2025**
+> Skills: C (Programming Language) · Python (Programming Language) · SQL
 
 - **Fundamentals of Semiconductor Devices
 Indian Institute of Science (IISc)
-Issued May 2025Issued May 2025
-Skills: Semiconductor Device**
+Issued May 2025**
+> Skills: Semiconductor Device
 
 ## ⚙️ Technical Skills
 
 | Domain | Tools & Technologies |
 |--------|----------------------|
-| Programming | Python, C/C++, |
+| Programming | Python, C/C++,Java |
 | Development | Arduino,   |
 | Hardware | Circuit Design, PCB Basics, Sensors & Actuators |
 | Software | VS Code, MATLAB, Proteus, Multisim |
