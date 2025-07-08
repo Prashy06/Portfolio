@@ -20,7 +20,37 @@ Beyond the classroom, I’m deeply engaged in understanding global current affai
 I’m here to connect with thinkers, tinkerers, storytellers, engineers, and explorers anyone who believes that diverse interests aren’t distractions, but the building blocks of innovation.
 
 ---
-## 📌 About Me
+## 🎓 Education
+SRM Easwari Engineering College
+Bachelor of Engineering - BE , Electronics & Communication Engineering (ECE)
+2024 - 2028
+Key Courses: Digital Electronics, Embedded Systems, VLSI Design, Signals & Systems, Data Structures, Artificial Intelligence (Intro), IoT
+
+
+Ryan International School
+Class 12th, Council for the Indian School Certificate Examinations (ICSE)
+Grade: 82.5%
+---
+
+## 🏆 Certifications
+
+- **CS50 : Introduction to Artificial Intelligence with Python
+CS50 : Introduction to Artificial Intelligence with Python
+Harvard UniversityHarvard University
+Issued Jun 2025Issued Jun 2025
+Skills: Artificial Intelligence (AI) · Convolutional Neural Networks (CNN)**
+
+- **CS50x
+Harvard UniversityHarvard University
+Issued Jun 2025Issued Jun 2025
+Skills: C (Programming Language) · Python (Programming Language) · SQL**
+
+
+**Fundamentals of Semiconductor Devices
+Indian Institute of Science (IISc)
+Issued May 2025Issued May 2025
+Skills: Semiconductor Device**
+
 
 ## ⚙️ Technical Skills
 
