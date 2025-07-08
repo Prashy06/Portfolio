@@ -20,6 +20,7 @@ Beyond the classroom, I’m deeply engaged in understanding global current affai
 I’m here to connect with thinkers, tinkerers, storytellers, engineers, and explorers anyone who believes that diverse interests aren’t distractions, but the building blocks of innovation.
 
 ---
+## 📌 About Me
 
 ## ⚙️ Technical Skills
 
