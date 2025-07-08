@@ -22,14 +22,14 @@ I’m here to connect with thinkers, tinkerers, storytellers, engineers, and exp
 ---
 ## 🎓 Education
 
-- **SRM Easwari Engineering College
-Bachelor of Engineering - BE , Electronics & Communication Engineering (ECE)
+- **SRM Easwari Engineering College**
+> Bachelor of Engineering - BE , Electronics & Communication Engineering (ECE)
 2024 - 2028
-Key Courses: Digital Electronics, Embedded Systems, VLSI Design, Signals & Systems, Data Structures, Artificial Intelligence (Intro), IoT**
+Key Courses: Digital Electronics, Embedded Systems, VLSI Design, Signals & Systems, Data Structures, Artificial Intelligence (Intro), IoT
 
 
-- **Ryan International School
-Class 12th, Council for the Indian School Certificate Examinations (ICSE)
+- **Ryan International School**
+ >Class 12th, Council for the Indian School Certificate Examinations (ICSE)
 Grade: 82.5%**
 ---
 
