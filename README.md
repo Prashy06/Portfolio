@@ -21,15 +21,16 @@ I’m here to connect with thinkers, tinkerers, storytellers, engineers, and exp
 
 ---
 ## 🎓 Education
-SRM Easwari Engineering College
+
+- **SRM Easwari Engineering College
 Bachelor of Engineering - BE , Electronics & Communication Engineering (ECE)
 2024 - 2028
-Key Courses: Digital Electronics, Embedded Systems, VLSI Design, Signals & Systems, Data Structures, Artificial Intelligence (Intro), IoT
+Key Courses: Digital Electronics, Embedded Systems, VLSI Design, Signals & Systems, Data Structures, Artificial Intelligence (Intro), IoT**
 
 
-Ryan International School
+- **Ryan International School
 Class 12th, Council for the Indian School Certificate Examinations (ICSE)
-Grade: 82.5%
+Grade: 82.5%**
 ---
 
 ## 🏆 Certifications
@@ -45,12 +46,10 @@ Harvard UniversityHarvard University
 Issued Jun 2025Issued Jun 2025
 Skills: C (Programming Language) · Python (Programming Language) · SQL**
 
-
-**Fundamentals of Semiconductor Devices
+- **Fundamentals of Semiconductor Devices
 Indian Institute of Science (IISc)
 Issued May 2025Issued May 2025
 Skills: Semiconductor Device**
-
 
 ## ⚙️ Technical Skills
 
